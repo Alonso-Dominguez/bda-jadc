@@ -8,8 +8,8 @@ CREATE TABLE personas(
 
 
 INSERT INTO personas(nombre, primer_apellido, segundo_apellido, email) VALUES
-  ('juan', 'castro', 'lopez', 'juanito@gmail.com'),
+  ('juan', 'castro', 'lopez', 'juan@gmail.com'),
   ('carlos', 'sanchez', 'cruz', 'carlos@gmail.com'),
-  ('alfredo', 'morales', 'castillo', 'miguel@gmail.com');
+  ('alfredo', 'morales', 'castillo', 'alfredo@gmail.com');
 
 SELECT * FROM personas;
